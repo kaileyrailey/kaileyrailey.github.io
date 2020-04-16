@@ -1,0 +1,51 @@
+#all {
+    font-family: 'Manrope', sans-serif;
+    font-weight: light;
+    text-align: center;
+    background-color: rgb(141, 118, 118);
+    color: rgb(19, 18, 18);
+    
+
+}
+
+
+
+h1 {
+    font-size: 3em;
+}
+
+i {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+
+  a {
+      color: white;
+      font-size: 18px;
+      text-transform: uppercase;
+      text-decoration: none;
+      
+
+  }
+
+  a:hover {
+      text-decoration: underline;
+      color: rgb(70, 68, 68);
+      font-weight: bold;
+      cursor: pointer;
+  }
+
+  br {
+      height: 1px;
+  }
+  
+  img {
+      width: 400px;
+  }
